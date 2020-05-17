@@ -1,6 +1,7 @@
 # -*- coding:utf-8 -*-
 # Author:wanghao
 # date:2020年5月17日
+
 height = 1.75
 weight = 80.5
 bmi = weight / (height * height)
